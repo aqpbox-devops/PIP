@@ -1,6 +1,1 @@
-pandas
-numpy
-exchangelib
-excel2img
-pymssql
-openpyxl
+PyYAML
